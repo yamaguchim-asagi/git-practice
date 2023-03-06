@@ -1,1 +1,1 @@
-hoge
+PROJECT: git-practice 
